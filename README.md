@@ -212,7 +212,7 @@ Most self-hosted software can be installed using [Docker](https://en.wikipedia.o
 
 [Code-Server](https://github.com/coder/code-server) is Visual Studio Code running on a remote server, accessible through the browser. 
 
-[Gitea](https://gittea.dev/) is a community managed painless self-hosted Git service.
+[Gitea](https://gitea.io/) is a community managed painless self-hosted Git service.
 
 [Node-Red](https://nodered.org/) is a low-code programming for event-driven applications.
 
